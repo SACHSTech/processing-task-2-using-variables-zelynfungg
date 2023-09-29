@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Main class to execute sketchy@zelynfungg
+ * @author Zelyn Fung 
  *
  */
 class Main {
